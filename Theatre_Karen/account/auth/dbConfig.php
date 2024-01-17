@@ -1,9 +1,9 @@
 <?php
 
 
-$hn = "localhost";
-$un = "karen_admin";
-$pw = "*Zl5rx]DEk1kbhm0";
+$hn= "localhost";
+$un = "my_clyde_admin";
+$pw = "QwpddO9.1Oj0VjJU";
 $db = "theatre";
 
 // Create database connection
